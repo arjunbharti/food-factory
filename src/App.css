@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+  background-color: white;
+  color: black;
+}
+
+.card:hover {
+  background-color: rgb(241, 150, 166);
+}
